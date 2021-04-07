@@ -1,0 +1,1 @@
+C:\Users\visit\IdeaProjects\snake_game\target\debug\snake_game.exe: C:\Users\visit\IdeaProjects\snake_game\src\draw.rs C:\Users\visit\IdeaProjects\snake_game\src\game.rs C:\Users\visit\IdeaProjects\snake_game\src\main.rs C:\Users\visit\IdeaProjects\snake_game\src\snake.rs

@@ -1,0 +1,12 @@
+C:\Users\visit\IdeaProjects\snake_game\target\debug\deps\libloading-4a3c85f0aef9f62c.rmeta: C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\lib.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\os\mod.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\os\windows\mod.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\changelog.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\util.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\error.rs
+
+C:\Users\visit\IdeaProjects\snake_game\target\debug\deps\liblibloading-4a3c85f0aef9f62c.rlib: C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\lib.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\os\mod.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\os\windows\mod.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\changelog.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\util.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\error.rs
+
+C:\Users\visit\IdeaProjects\snake_game\target\debug\deps\libloading-4a3c85f0aef9f62c.d: C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\lib.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\os\mod.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\os\windows\mod.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\changelog.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\util.rs C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\error.rs
+
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\lib.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\os\mod.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\os\windows\mod.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\changelog.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\util.rs:
+C:\Users\visit\.cargo\registry\src\github.com-1ecc6299db9ec823\libloading-0.6.7\src\error.rs:
